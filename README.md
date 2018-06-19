@@ -67,3 +67,9 @@ gem install redis-dump
 验证安装 
 redis-dump
 redis-load
+
+安装pyspiderp爬虫框架
+pip install pyspider
+
+运行pyspider命令
+pyspider all
